@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "107866540864",
+    "project_id": "cbsbeta01",
+    "storage_bucket": "cbsbeta01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107866540864:android:09562f942e829ebe9788a5",
+        "android_client_info": {
+          "package_name": "com.example.cbsbeta01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107866540864-nh0p0us2g3l6pl7onmgsmvf4g36eej6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlf6Mg0Zf4BJUfq6AdsNJZZKlVU2C_fY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107866540864-nh0p0us2g3l6pl7onmgsmvf4g36eej6i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107866540864-vqucer5qb1hofrrnrj60a7def0679psf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cbsbeta01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
