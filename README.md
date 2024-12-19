@@ -1,7 +1,7 @@
 # CBS APPARELS
 
 An E-Commerce App build for a Muzaffarnagar based cloth Centre known as CBS Apparels. With an extensive collection of clothing and accessories for men, women, and children, app is dedicated to providing a diverse range that caters to every taste and occasion.
-#### [APK](https://drive.google.com/drive/folders/1N3vMwpiC4FYYNn5xqpU-bq0I6bOi2W5O)
+#### [APK](https://drive.google.com/file/d/1bdAvWWtmZuzQDsQtgVau3Wxt3u8-AEVM/view?usp=sharing)
 
 ## Key Features:
 
